@@ -1,0 +1,13 @@
+C:\Users\Tuan\Desktop\tuan\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.exe
+C:\Users\Tuan\Desktop\tuan\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.deps.json
+C:\Users\Tuan\Desktop\tuan\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.runtimeconfig.json
+C:\Users\Tuan\Desktop\tuan\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.runtimeconfig.dev.json
+C:\Users\Tuan\Desktop\tuan\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.dll
+C:\Users\Tuan\Desktop\tuan\Buoi2\bin\Debug\netcoreapp3.1\Buoi2.pdb
+C:\Users\Tuan\Desktop\tuan\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.csprojAssemblyReference.cache
+C:\Users\Tuan\Desktop\tuan\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.AssemblyInfoInputs.cache
+C:\Users\Tuan\Desktop\tuan\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.AssemblyInfo.cs
+C:\Users\Tuan\Desktop\tuan\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.csproj.CoreCompileInputs.cache
+C:\Users\Tuan\Desktop\tuan\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.dll
+C:\Users\Tuan\Desktop\tuan\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.pdb
+C:\Users\Tuan\Desktop\tuan\Buoi2\obj\Debug\netcoreapp3.1\Buoi2.genruntimeconfig.cache
